@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/natalia-melero-2b2493204/) 
 
-![giphy](https://github.com/user-attachments/assets/f31d1e67-ff9c-4e6a-9ddd-e200245352d7)
+![giphy](https://github.com/user-attachments/assets/1e0384fb-ec6f-4d25-8af5-a2d509b1f421)
 
 # Tech Stack
 
